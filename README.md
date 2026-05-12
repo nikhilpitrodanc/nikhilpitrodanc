@@ -2,21 +2,7 @@
 
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nikhil%20Pitroda&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=👋+Hey,+I'm+Nikhil+Pitroda!;🤖+Building+Intelligent+Systems;📊+Turning+Data+into+Insights;🧠+Deep+Learning+Enthusiast;🚀+Always+Learning,+Always+Growing)](https://git.io/typing-svg)
-
-<!-- Profile Views & Social Badges -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=nikhilpitrodanc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="https://github.com/nikhilpitrodanc?tab=followers">
-    <img src="https://img.shields.io/github/followers/nikhilpitrodanc?label=Followers&style=social" alt="GitHub Followers"/>
-  </a>
-</p>
-
 </div>
-
----
 
 ## 🧑‍💻 About Me
 
