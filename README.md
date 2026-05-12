@@ -89,27 +89,11 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/nikhilpitrodanc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilpitrodanc&repo=nikhilpitrodanc&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> 💡 *Replace the repo name above with your actual project repos to showcase them here!*
-
 | Project | Description | Tech |
 |---------|------------|------|
 | 🤖 ML Model X | Predictive model with 95%+ accuracy | Python, Scikit-Learn |
 | 📊 Data Dashboard | Interactive analytics dashboard | Python, SQL, Pandas |
 | 🧠 Deep Learning App | Image classification using CNNs | TensorFlow, Keras |
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilpitrodanc&theme=tokyonight&no-frame=true&row=1&column=7" width="100%"/>
-</div>
 
 ---
 
@@ -128,12 +112,6 @@ me.say_hi()
 ---
 
 <div align="center">
-
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/nikhilpitrodanc/nikhilpitrodanc/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 ⭐️ *If you like my work, consider giving my repos a star!* ⭐️
 
